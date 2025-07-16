@@ -1,0 +1,31 @@
+# macOS системні файли
+*.dSYM/
+
+# Файли збірки (object files, executables)
+*.o
+*.obj
+*.so
+*.exe
+*.out
+
+# Каталоги збірки
+build/
+bin/
+cmake-build-debug/
+
+# Файли IDE
+.vscode/
+.idea/
+*.user
+*.log
+
+# Логи і тимчасові файли
+*.log
+*.tmp
+*.temp
+
+# Файли налаштувань CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
