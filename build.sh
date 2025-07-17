@@ -2,7 +2,7 @@ Option 1: Using CMake
 
 bash
 
-mkdir -p images
+mkdir -p images(if this folder does not exist)
 mkdir -p build
 cd build
 cmake ..
