@@ -249,14 +249,14 @@ To test your implementation, simply build and run the renderer, then visually in
 
 ###  Project Roadmap
 
-- [X] **`Task 1`**: <strike>Vec3 math library (vector algebra).</strike>
-- [Х] **`Task 2`**:  <strike>Ray class and ray-color function.</strike>
-- [Х] **`Task 3`**: <strike>Scene abstraction using Hittable and Hittable_list.</strike>
-- [X] **`Task 4`**: <strike>Camera class with perspective projection.</strike>
-- [Х] **`Task 5`**:  <strike>Surface normals and shading.</strike>
-- [Х] **`Task 6`**: <strike>Anti-aliasing (multi-sample per pixel).</strike>
-- [Х] **`Task 7`**:  <strike>Image output in .ppm format.</strike>
-- [Х] **`Task 8`**: <strike>Optional: .ppm to .png conversion using ImageMagick.</strike>
+- [ ] **`Task 1`**: <strike>Vec3 math library (vector algebra).</strike>
+- [ ] **`Task 2`**:  <strike>Ray class and ray-color function.</strike>
+- [ ] **`Task 3`**: <strike>Scene abstraction using Hittable and Hittable_list.</strike>
+- [ ] **`Task 4`**: <strike>Camera class with perspective projection.</strike>
+- [ ] **`Task 5`**:  <strike>Surface normals and shading.</strike>
+- [ ] **`Task 6`**: <strike>Anti-aliasing (multi-sample per pixel).</strike>
+- [ ] **`Task 7`**:  <strike>Image output in .ppm format.</strike>
+- [ ] **`Task 8`**: <strike>Optional: .ppm to .png conversion using ImageMagick.</strike>
 - [ ] **`Task 9`**: Real unit tests for math functions and ray-sphere hits.
 - [ ] **`Task 10`**: Support for different output resolutions via CLI args.
 
