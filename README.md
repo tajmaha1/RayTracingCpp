@@ -30,9 +30,9 @@
 
 ---
 
-### Overview
+#### Overview
 
-<code> RayTracingCpp is a learning project that implements a simple ray tracer in C++, based on the book “Ray Tracing in One Weekend” by Peter Shirley. The goal is to build a basic ray tracing renderer from scratch to understand the core concepts of computer graphics — including vector math, ray-object intersections, lighting, materials, and image generation.
+RayTracingCpp is a learning project that implements a simple ray tracer in C++, based on the book “Ray Tracing in One Weekend” by Peter Shirley. The goal is to build a basic ray tracing renderer from scratch to understand the core concepts of computer graphics — including vector math, ray-object intersections, lighting, materials, and image generation.
 
 This project includes:
 - **Vector algebra implementation (Vec3)**
@@ -41,7 +41,7 @@ This project includes:
 - **A virtual camera with adjustable field of view**
 - **Simple materials (Lambertian diffuse reflection)**
 - **Image output in .ppm format**
-The code can be compiled using clang++ or CMake on macOS/Linux. The final output is a rendered image of a scene using ray tracing techniques.</code>
+The code can be compiled using clang++ or CMake on macOS/Linux. The final output is a rendered image of a scene using ray tracing techniques.
 
 ---
 
